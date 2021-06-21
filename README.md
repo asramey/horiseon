@@ -10,7 +10,7 @@ A website for a social media marketing company.
 ## Website
 https://asramey.github.io/horiseon/
 
-
+<img src="./assets/images/screenshot.png" style="width: 50%">
 
 ## Contribution
 Andrew Ramey
